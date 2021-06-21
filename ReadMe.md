@@ -17,5 +17,13 @@ Configurações:
   }
 }
 
-#Deploy apliccation
+### Deploy
 
+- Build Project
+
+
+### Prerequisites for Deploy
+
+- Create Acount in Microsoft Azure and app web with Node v14
+- Download publishing profile
+- Publish with Visual Studio 19, selecting deploy in azure with import publishing profile.
