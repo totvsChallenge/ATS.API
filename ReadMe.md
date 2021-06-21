@@ -17,20 +17,5 @@ Configurações:
   }
 }
 
-Métodos:
-
-GET
-Traz todos os registros da Tabela 
-
-GET(id)
-Traz um registro especificado
-
-POST
-Comando para cadastro de registro, podendo ou não conter a imagem.
-
-PUT
-Comando para atualizar do registro, podendo ou não conter a imagem.
-
-Delete
-Comando de exclusão do registro e curriculum associado, quando se aplicar
+#Deploy apliccation
 
