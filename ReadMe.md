@@ -24,6 +24,6 @@ Configurações:
 
 ### Prerequisites for Deploy
 
-- Create Acount in Microsoft Azure and app web with Node v14
+- Create Acount in Microsoft Azure and app web with runtime  .NET CORE 3.1(LTS)
 - Download publishing profile
 - Publish with Visual Studio 19, selecting deploy in azure with import publishing profile.
